@@ -1,0 +1,13 @@
+#Euler Problem 9
+
+import math
+def pythagorean_triplet(n):
+  for b in range(n):
+    for a in range(1, b):
+        c = math.sqrt( a * a + b * b)
+        if c % 1 == 0:
+            print(a, b, int(c))
+            if a + b + int(c) == 1000:
+                print("AHAHAHAHAH")
+            
+pythagorean_triplet(500)

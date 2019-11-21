@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Euler Problems", "Euler Problems\Euler Problems.pyproj", "{CA7705BB-EAD3-4B99-AA9D-83DF9397F1E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA7705BB-EAD3-4B99-AA9D-83DF9397F1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7705BB-EAD3-4B99-AA9D-83DF9397F1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B9AC21-C5B4-4F2A-83D1-8AD9FA5BC3DB}
+	EndGlobalSection
+EndGlobal
